@@ -1,0 +1,17 @@
+p {
+    color: green;
+    font-size: 35px;
+}
+
+.paragraph {
+    color: aqua;
+    background-color: black;
+    padding: 5px;
+}
+
+#exclusive-title{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    font-size: 80px;
+}
